@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.brilliant.co	TRUE	/	FALSE	1999999999	_shopify_y	a10a0576-d008-4dd4-9145-2a2f5bcbec52
+www.brilliant.co	TRUE	/	FALSE	1999999999	_landing_page	%2F
+www.velofix.com	TRUE	/	FALSE	1999999999	pll_language	en
+
